@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+I'm a software engineer who strives to write clean, reliable, and maintainable code. I also, occasionally, have fun.
+
+Mainly working with .NET.
 <!--
 **Harzak/Harzak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
